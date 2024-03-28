@@ -1,4 +1,4 @@
-# MergeKit Assistant an HuggingChat Assistant for merging LLMs
+# MergeKit Assistant an HuggingChat Assistant 🤗 for merging LLMs
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg)](https://badge.fury.io/py/tensorflow) [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) ![Maintainer](https://img.shields.io/badge/maintainer-@louisbrulenaudet-blue)
 
 The purpose of this repo is to centralize thinking around a Hugging Chat Assistant for producing YAML configuration files for use with Arcee's MergeKit.
